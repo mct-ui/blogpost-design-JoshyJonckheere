@@ -240,7 +240,7 @@ a:focus {
 @media (min-width: 992px) {
     h1 {
         font-size: 52px;
-        line-height: 64;
+        line-height: 64px;
     }
 }
 
