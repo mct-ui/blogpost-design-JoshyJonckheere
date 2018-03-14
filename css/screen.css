@@ -238,7 +238,7 @@ a:focus {
 /* Large devices (landscape tablets, desktops, 992px and up) */
 
 @media (min-width: 992px) {
-    h1 {
+    h1 {
         font-size: 52px;
         line-height: 64px;
     }
